@@ -1,4 +1,3 @@
 # Projet
 
-Vous pouvez éditer le fichier README.md (en langage **Markdown**) pour modifier cette partie.
-Vous pouvez générer des schémas en utilisant [Mermaid](https://github.com/mermaid-js/mermaid).
+Vous pouvez décrire votre projet ici, en [Markdown](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
